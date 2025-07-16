@@ -25,8 +25,8 @@ Este proyecto es una versión moderna del clásico juego **Snake**, donde **cont
     
 
 ```bash
-git clone https://github.com/tu_usuario/snake-game-hand.git
-cd snake-game-hand
+git clone https://github.com/HugoAlFus/Snake-python
+cd Snake-python
 ```
 
 2. **Crea un entorno virtual (opcional pero recomendado):**
